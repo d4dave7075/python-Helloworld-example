@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a7906fc-5a3a-4eed-bcd2-aec1da2f6a1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V4WHFWhLOHTVFcFZLSRksXQLUv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HelloWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a7906fc-5a3a-4eed-bcd2-aec1da2f6a1c" name="Default Changelist" comment="" />
+      <created>1576512758122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576512758122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="342" width="619" height="799" key="#hello" timestamp="1576512911315">
+      <screen x="70" y="27" width="1528" height="1423" />
+    </state>
+    <state x="519" y="342" width="619" height="799" key="#hello/70.27.1528.1423@70.27.1528.1423" timestamp="1576512911315" />
+    <state x="243" y="589" width="424" height="491" key="FileChooserDialogImpl" timestamp="1576513780857">
+      <screen x="70" y="27" width="1528" height="1423" />
+    </state>
+    <state x="243" y="589" width="424" height="491" key="FileChooserDialogImpl/70.27.1528.1423@70.27.1528.1423" timestamp="1576513780857" />
+    <state width="1377" height="258" key="GridCell.Tab.0.bottom" timestamp="1576513942575">
+      <screen x="70" y="27" width="1528" height="1423" />
+    </state>
+    <state width="1377" height="258" key="GridCell.Tab.0.bottom/70.27.1528.1423@70.27.1528.1423" timestamp="1576513942575" />
+    <state width="1377" height="258" key="GridCell.Tab.0.center" timestamp="1576513942574">
+      <screen x="70" y="27" width="1528" height="1423" />
+    </state>
+    <state width="1377" height="258" key="GridCell.Tab.0.center/70.27.1528.1423@70.27.1528.1423" timestamp="1576513942574" />
+    <state width="1377" height="258" key="GridCell.Tab.0.left" timestamp="1576513942567">
+      <screen x="70" y="27" width="1528" height="1423" />
+    </state>
+    <state width="1377" height="258" key="GridCell.Tab.0.left/70.27.1528.1423@70.27.1528.1423" timestamp="1576513942567" />
+    <state width="1377" height="258" key="GridCell.Tab.0.right" timestamp="1576513942575">
+      <screen x="70" y="27" width="1528" height="1423" />
+    </state>
+    <state width="1377" height="258" key="GridCell.Tab.0.right/70.27.1528.1423@70.27.1528.1423" timestamp="1576513942575" />
+    <state x="323" y="373" width="1022" height="737" key="SettingsEditor" timestamp="1576513793917">
+      <screen x="70" y="27" width="1528" height="1423" />
+    </state>
+    <state x="323" y="373" width="1022" height="737" key="SettingsEditor/70.27.1528.1423@70.27.1528.1423" timestamp="1576513793917" />
+    <state x="490" y="565" key="com.intellij.ide.util.TipDialog" timestamp="1576519264161">
+      <screen x="70" y="27" width="1528" height="1423" />
+    </state>
+    <state x="490" y="565" key="com.intellij.ide.util.TipDialog/70.27.1528.1423@70.27.1528.1423" timestamp="1576519264161" />
+  </component>
+</project>
